@@ -1,0 +1,33 @@
+{
+  "contatos": [
+    {
+      "id": "016a",
+      "nome": "madu",
+      "cor": "verde"
+    },
+    {
+      "0": {
+        "nome": "madu"
+      },
+      "id": "9589"
+    },
+    {
+      "0": {
+        "nome": "madu"
+      },
+      "id": "a8c4"
+    },
+    {
+      "0": {
+        "nome": "madu",
+        "cor": "verde"
+      },
+      "id": "fb05"
+    },
+    {
+      "id": "cc3a",
+      "nome": "madu",
+      "cor": "verde"
+    }
+  ]
+}
